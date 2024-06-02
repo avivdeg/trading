@@ -11,16 +11,16 @@ Visualize stock data and technical indicators using interactive charts
 Analyze portfolio performance and generate reports
 
 **Getting Started**
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
-[git clone https://github.com/avivdeg/trading.git](https://github.com/avivdeg/trading.git)
+git clone https://github.com/avivdeg/trading.git
 
+2. Install the required Python packages:
 
-Install the required Python packages:
 pip install yfinance pandas ta
 
-Navigate to the project directory and explore the available scripts and tools.
-Refer to the documentation or code comments for instructions on how to use specific tools or scripts.
+3. Navigate to the project directory and explore the available scripts and tools.
+4. Refer to the documentation or code comments for instructions on how to use specific tools or scripts.
 
 **Contributing**
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
