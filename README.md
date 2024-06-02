@@ -1,4 +1,4 @@
-****Trading Tools**
+**Trading Tools**
 
 This repository contains a collection of tools and scripts designed to assist with trading and investment analysis. These tools provide functionality for fetching stock data, calculating technical indicators, backtesting trading strategies, and more.
 Note: The information and tools provided in this repository are for educational and personal use only. They should not be considered as professional investment advice. Use these tools at your own risk, and always conduct thorough research and due diligence before making any investment decisions.
