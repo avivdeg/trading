@@ -12,7 +12,9 @@ Analyze portfolio performance and generate reports
 
 **Getting Started**
 Clone the repository to your local machine:
-git clone https://github.com/avivdeg/trading.git
+
+[git clone https://github.com/avivdeg/trading.git](https://github.com/avivdeg/trading.git)
+
 
 Install the required Python packages:
 pip install yfinance pandas ta
