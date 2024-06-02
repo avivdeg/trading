@@ -1,2 +1,2 @@
 # trading
-Tools to help me trade and invest 
+These are tools to help me play with trading and investemet, please use it unuder your responsability
